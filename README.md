@@ -33,7 +33,7 @@ Note that "--use_imemory", "--use_ememory" are originally designed for ECM model
 	``` python baseline.py --use_emb --use_autoEM --train_dir="train/EACM" --decode	```
 
 Need to note that the testing files placed in "./train/test.post", and the model will automatically generate responses according to the testfile.
-After predicting the testfile, the model will go to interaction mode to waite for an input.
+After predicting the testfile, the model will go to interaction mode to wait for an input.
 
 ## Paper
 
