@@ -1,6 +1,6 @@
 # Emotion-Aware Chat Machine
 
-The source code of the paper "Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction" . (Published on [CIKM2019](https://dl.acm.org/doi/10.1145/3357384.3357937)).
+The source code of the paper "Emotion-aware Chat Machine: Automatic Emotional Response Generation for Human-like Emotional Interaction" (Published on [CIKM2019](https://dl.acm.org/doi/10.1145/3357384.3357937)).
 
 ## Dependencies
 	
